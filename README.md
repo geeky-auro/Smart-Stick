@@ -1,6 +1,9 @@
 # Smart-Stick
 [**Documentation**](https://docs.google.com/document/d/12w1c4cRsSJCyFbMJEvaP4DbLqH0vjTlH6sluh3fQ2tE/edit?usp=sharing)
 
+# Project Overview
+<img src="https://github.com/geeky-auro/Smart-Stick/blob/main/Blind%20Stick.png" alt="Blind Stick Simulation">
+
 # Component's Used
 | Name | Quantity | Component | Usage |
 | --- | --- | --- | --- |
