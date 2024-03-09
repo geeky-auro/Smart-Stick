@@ -7,7 +7,7 @@
 ![image](https://github.com/geeky-auro/Smart-Stick/assets/83534307/2fd5de74-45ff-4eb8-98da-9bb83e1a1073)
 
 
-# Component's Used
+# Component's Used 💡
 | Name | Quantity | Component | Usage |
 | --- | --- | --- | --- |
 | U1 | 1 | Arduino Uno R3 | Microcontroller board for programming and controlling the project |
@@ -18,7 +18,7 @@
 # Sketch
 [Code](https://create.arduino.cc/editor/auro_saswat/bb488ffe-5e70-46ed-8887-d5209ca72599/preview)
 
-# Code Explanation
+# Code Explanation ©️
 This code is written in Arduino programming language, which is based on C/C++. It is designed to control an ultrasonic sensor for measuring the distance of an object and then react accordingly by turning on or off a buzzer and a motor based on the measured distance. Here is a breakdown of the code:
 
 ### Variable Declarations:
@@ -45,9 +45,12 @@ This function runs continuously after setup() is finished:
 
 In summary, this code continuously measures the distance using an ultrasonic sensor. If the object is within 200 cm, it activates a buzzer and a motor; otherwise, it deactivates them. This could be used in various applications like obstacle avoidance in robotics.
 
-# Reference Research Articles
+# Reference Research Articles 📰
 - [Smart Stick for Blind People](https://ieeexplore.ieee.org/abstract/document/9074374)
 - [Smart Stick for the Blind and Visually Impaired People](https://ieeexplore.ieee.org/abstract/document/8473344) 
 - [Smart Stick For the Blind Using Arduino](https://iopscience.iop.org/article/10.1088/1742-6596/1569/3/032088/meta) 
 - [Multiple distance sensors based smart stick for visually impaired people](https://ieeexplore.ieee.org/abstract/document/7868407)
 - [A Design review of Smart Stick for the Blind Equipped with Obstacle Detection and Identification using Artificial Intelligence](https://www.researchgate.net/profile/Balu-N-Ilag/publication/332379082_A_Design_review_of_Smart_Stick_for_the_Blind_Equipped_with_Obstacle_Detection_and_Identification_using_Artificial_Intelligence/links/5ceeb62d4585153c3da52dbc/A-Design-review-of-Smart-Stick-for-the-Blind-Equipped-with-Obstacle-Detection-and-Identification-using-Artificial-Intelligence.pdf)
+
+# Join the Collaborative Effort 🖋️
+[Contribute](https://www.tinkercad.com/things/ivsXIvEI4DP-powerful-uusam-jarv/editel?sharecode=HzwYFobp0Kk0h1iHZf8KUe90iBALpmqggakpQ9Nw8Uc)
