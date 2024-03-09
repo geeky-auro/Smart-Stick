@@ -4,6 +4,9 @@
 # Project Overview
 <img src="https://github.com/geeky-auro/Smart-Stick/blob/main/Blind%20Stick.png" alt="Blind Stick Simulation">
 
+![image](https://github.com/geeky-auro/Smart-Stick/assets/83534307/2fd5de74-45ff-4eb8-98da-9bb83e1a1073)
+
+
 # Component's Used
 | Name | Quantity | Component | Usage |
 | --- | --- | --- | --- |
