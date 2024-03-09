@@ -15,6 +15,9 @@
 | M1 | 1 | Vibration Motor | Creates vibrations or motion for tactile feedback or other purposes |
 | PIEZO1 | 1 | Piezo | Produces sound or tones, often used as a buzzer or speaker |
 
+# Sketch
+[Code](https://create.arduino.cc/editor/auro_saswat/bb488ffe-5e70-46ed-8887-d5209ca72599/preview)
+
 # Code Explanation
 This code is written in Arduino programming language, which is based on C/C++. It is designed to control an ultrasonic sensor for measuring the distance of an object and then react accordingly by turning on or off a buzzer and a motor based on the measured distance. Here is a breakdown of the code:
 
